@@ -1,0 +1,12 @@
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.deps.json
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.dll
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.AssemblyReference.cache
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfoInputs.cache
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfo.cs
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.dll
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\obj\Debug\net5.0\refint\Talabat.DAL.dll
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.pdb
+D:\route\API\Day_1\AssAndPP\Talabat.G01 Solution\Talabat.DAL\obj\Debug\net5.0\ref\Talabat.DAL.dll
